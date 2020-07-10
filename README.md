@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**sjclijie/sjclijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**poteto/poteto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif)
