@@ -20,7 +20,6 @@
 - 此用户认为对任何事物都必须抱持合理的怀疑的态度。
 - 这个用户支持言论自由。
 - 这个用户支持真正的男女平等，不偏袒男性或女性任何一方。
-- 这个用户喜欢、亲近大自然。
 - 这个用户认为知易行难。
 
 ![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif)
